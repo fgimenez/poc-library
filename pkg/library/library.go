@@ -3,5 +3,5 @@ package library
 import "fmt"
 
 func Shared() {
-	fmt.Println("v1")
+	fmt.Println("v2")
 }
