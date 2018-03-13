@@ -1,7 +1,5 @@
 package library
 
-import "fmt"
-
-func Shared() {
-	fmt.Println("v2")
+func Shared() string {
+	return "v2"
 }
