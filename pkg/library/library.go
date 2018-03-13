@@ -1,5 +1,5 @@
 package library
 
 func Shared() string {
-	return "v2"
+	return "v1"
 }
